@@ -1,0 +1,5 @@
+name = iPaper
+description = Embed and publish iPaper documents through your Drupal site.
+dependencies[] = upload
+core = "6.x"
+php = 5.0
